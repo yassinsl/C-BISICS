@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 /*
 Author: YASSIN LAHSSINI
 Date: 10/18/2023
