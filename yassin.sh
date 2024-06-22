@@ -16,5 +16,5 @@ for i in {1..6}
 do
     git add "file${i}.c"
     git commit -m "Add file${i}.c"
-    git push origin main
+    # git push origin main
 done
