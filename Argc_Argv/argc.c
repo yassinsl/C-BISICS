@@ -1,7 +1,8 @@
 #include <stdio.h>
+#define R 1999
 
-int main(int argc, char *argv[]) 
+int main(void) 
 {
-    printf("%d", argc);
+    printf("%d", R);
     return 0;
 }
